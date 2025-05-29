@@ -10,7 +10,7 @@ export const badgeVariants = cva(
         secondary: "bg-pink-light",
       },
       size: {
-        sm: "py-0.5 px-2",
+        sm: "px-2 py-0.5",
       },
     },
     defaultVariants: {
